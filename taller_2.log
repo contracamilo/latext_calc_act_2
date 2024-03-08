@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.17)  7 MAR 2024 22:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.17)  7 MAR 2024 23:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -774,7 +774,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
 
-<assets/t_2_1.png, id=4, 153.57375pt x 213.79875pt>
+<assets/t_2_1.png, id=8, 153.57375pt x 213.79875pt>
 File: assets/t_2_1.png Graphic file (type png)
 <use assets/t_2_1.png>
 Package pdftex.def Info: assets/t_2_1.png  used on input line 31.
@@ -784,7 +784,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--39
 
  []
 
-<assets/t_2_2.png, id=6, 511.9125pt x 513.92pt>
+<assets/t_2_2.png, id=10, 511.9125pt x 513.92pt>
 File: assets/t_2_2.png Graphic file (type png)
 <use assets/t_2_2.png>
 Package pdftex.def Info: assets/t_2_2.png  used on input line 42.
@@ -1092,37 +1092,93 @@ Underfull \hbox (badness 10000) in paragraph at lines 218--219
 
  []
 
-[5] (./taller_2.aux
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--224
+
+ []
+
+<assets/t_2_3.png, id=42, 1055.945pt x 902.37125pt>
+File: assets/t_2_3.png Graphic file (type png)
+<use assets/t_2_3.png>
+Package pdftex.def Info: assets/t_2_3.png  used on input line 228.
+(pdftex.def)             Requested size: 316.78595pt x 270.71346pt.
+<assets/t_2_4.png, id=43, 1060.96375pt x 972.63374pt>
+File: assets/t_2_4.png Graphic file (type png)
+<use assets/t_2_4.png>
+Package pdftex.def Info: assets/t_2_4.png  used on input line 234.
+(pdftex.def)             Requested size: 318.29158pt x 291.79237pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<assets/t_2_5.png, id=44, 1046.91125pt x 868.24374pt>
+File: assets/t_2_5.png Graphic file (type png)
+<use assets/t_2_5.png>
+Package pdftex.def Info: assets/t_2_5.png  used on input line 240.
+(pdftex.def)             Requested size: 314.0758pt x 260.47513pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[5 <./assets/t_2_3.png>] [6 <./assets/t_2_4.png> <./assets/t_2_5.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+
+ []
+
+[7
+
+] (./taller_2.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 )
-Package rerunfilecheck Info: File `taller_2.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+Package rerunfilecheck Warning: File `taller_2.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `taller_2.out':
+(rerunfilecheck)             Before: 2992F88817DFD4E7A8E103BD84480850;223
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 14756 strings out of 476025
- 226654 string characters out of 5790017
+ 14793 strings out of 476025
+ 227222 string characters out of 5790017
  1881388 words of memory out of 5000000
- 35032 multiletter control sequences out of 15000+600000
+ 35060 multiletter control sequences out of 15000+600000
  517226 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,76p,299b,532s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></u
-sr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr
-/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/l
-ocal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loc
-al/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/
-texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/tex
-live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texliv
-e/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
-/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on taller_2.pdf (5 pages, 197829 bytes).
+
+pdfTeX warning (dest): name{Item.1} has been referenced but does not exist, rep
+laced by a fixed one
+
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
+/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
+usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
+sr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr
+/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/l
+ocal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/loc
+al/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local
+/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/te
+xlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texli
+ve/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/
+2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2
+023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on taller_2.pdf (7 pages, 1018961 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
- 58 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 120 PDF objects out of 1000 (max. 8388607)
+ 76 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
+ 34 words of extra memory for PDF output out of 10000 (max. 10000000)
 
