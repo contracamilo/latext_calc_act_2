@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.17)  7 MAR 2024 19:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.17)  7 MAR 2024 22:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -27,8 +27,8 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \trimtop=\skip51
 \trimedge=\skip52
 
-(/usr/local/texlive/2023/texmf-dist/tex/latex/memoir/mem14.clo
-File: mem14.clo 2022/07/29 v0.5 memoir class 14pt size option
+(/usr/local/texlive/2023/texmf-dist/tex/latex/memoir/mem10.clo
+File: mem10.clo 2022/07/29 v0.5 memoir class 10pt size option
 )
 \binding=\skip53
 \spinemargin=\skip54
@@ -344,19 +344,19 @@ Package verse [2008/07/23] emulated by memoir.
 Stock height and width: 794.96999pt by 614.295pt
 Top and edge trims: 0pt and 0pt
 Page height and width: 794.96999pt by 614.295pt
-Text height and width: 679.4pt by 528pt
+Text height and width: 682pt by 528pt
 Spine and edge margins: 42.67912pt and 42.67912pt
-Upper and lower margins: 56.9055pt and 58.66449pt
-Headheight and headsep: 17.5pt and 21.68121pt
-Footskip: 28.90755pt
+Upper and lower margins: 56.9055pt and 56.06448pt
+Headheight and headsep: 12pt and 18.06749pt
+Footskip: 25.29494pt
 Columnsep and columnseprule: 10pt and 0pt
 Marginparsep and marginparwidth: 7pt and 28.67912pt
-Sidecapsep and sidecapwidth: 7pt and 53pt
-Sidebarhsep and sidebarwidth: 7pt and 53pt
-Sidebarvsep and sidebartopsep: 17.5pt and 0pt
-Sidebarheight: 537.24994pt
-Sidefoothsep and sidefootwidth: 7pt and 53pt
-Sidefootvsep and sidefootheight: 17.5pt and 537.24994pt
+Sidecapsep and sidecapwidth: 7pt and 128pt
+Sidebarhsep and sidebarwidth: 7pt and 128pt
+Sidebarvsep and sidebartopsep: 12pt and 0pt
+Sidebarheight: 548.39996pt
+Sidefoothsep and sidefootwidth: 7pt and 128pt
+Sidefootvsep and sidefootheight: 12pt and 548.39996pt
 ******************************************************
 
 (/usr/local/texlive/2023/texmf-dist/tex/generic/babel/babel.sty
@@ -685,6 +685,10 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count369
 \l__pdf_internal_box=\box58
 )
+
+LaTeX Warning: Unused global option(s):
+    [13pt].
+
 (./taller_2.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
@@ -790,9 +794,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
  []
 
-[1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
- <./assets/t_2_1.png> <./assets/t_2_2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 48--49
 
  []
@@ -807,7 +809,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--55
 
  []
 
+[1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
+ <./assets/t_2_1.png> <./assets/t_2_2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 56--57
 
  []
@@ -842,7 +846,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--80
 
  []
 
-[2]
+
 Underfull \hbox (badness 10000) in paragraph at lines 81--82
 
  []
@@ -887,7 +891,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--103
 
  []
 
-
+[2]
 Underfull \hbox (badness 10000) in paragraph at lines 104--106
 
  []
@@ -907,7 +911,188 @@ Underfull \hbox (badness 10000) in paragraph at lines 113--114
 
  []
 
-[3] [4] (./taller_2.aux
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--142
+
+ []
+
+
+Overfull \hbox (25.00003pt too wide) in paragraph at lines 131--143
+[] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--147
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--155
+
+ []
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 160.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.160 $\:\mathrm{Máximo}
+                         \left(\frac{4}{3},\:\frac{4}{3}\right)$\\
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--161
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--179
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--188
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--192
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--200
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--210
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 213--217
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+
+ []
+
+[5] (./taller_2.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 )
@@ -915,29 +1100,29 @@ Package rerunfilecheck Info: File `taller_2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 14766 strings out of 476025
- 226810 string characters out of 5790017
- 1872388 words of memory out of 5000000
- 35038 multiletter control sequences out of 15000+600000
- 520526 words of font info for 68 fonts, out of 8000000 for 9000
+ 14756 strings out of 476025
+ 226654 string characters out of 5790017
+ 1881388 words of memory out of 5000000
+ 35032 multiletter control sequences out of 15000+600000
+ 517226 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,76p,264b,530s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+ 75i,12n,76p,299b,532s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
-usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></us
-r/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/
-local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/lo
-cal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loca
-l/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/
-texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/tex
-live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texliv
-e/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on taller_2.pdf (4 pages, 186726 bytes).
+/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></u
+sr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr
+/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/l
+ocal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loc
+al/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/
+texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/tex
+live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texliv
+e/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
+/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on taller_2.pdf (5 pages, 197829 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 55 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
+ 94 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
+ 6 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
